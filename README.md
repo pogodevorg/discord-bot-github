@@ -1,6 +1,6 @@
-# discord-bot-github [![Build Status](https://img.shields.io/travis/pogodev/discord-bot-github/master.svg)](https://img.shields.io/travis/pogodev/discord-bot-github) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/discord-bot-github/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/discord-bot-github?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/discord-bot-github.svg?maxAge=2592000?style=flat-square)](#)
+[![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png?raw=true)](https://pogodev.org)
 
-![repo-logo-placeholder](https://github.com/pogodevorg/assets/blob/master/img/685x176.png?raw=true)
+# discord-bot-github [![Build Status](https://img.shields.io/travis/pogodev/discord-bot-github/master.svg)](https://img.shields.io/travis/pogodev/discord-bot-github) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/discord-bot-github/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/discord-bot-github?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/discord-bot-github.svg?maxAge=2592000?style=flat-square)](#)
 
 ## Table of Contents
 
@@ -14,13 +14,13 @@
 * [Credits](#credits)
 
 ## What is it?
-`discord-bot-github` is an open source bot for well raising cats.
+`discord-bot-github` is an open source bot for raising cats.
 
 ## Installation
-Installation instructions to follow here.
+Coming soon
 
 ## Documentation
-Any further documentation to be written here, or referred to elsewhere.
+Coming soon
 
 ## Licensing
 [GNU GPL](https://github.com/pogodevorg/discord-bot-github/blob/master/LICENSE) v3 or later.
