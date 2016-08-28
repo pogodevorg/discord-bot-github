@@ -3,7 +3,6 @@ env:
   node: true
 extends: 'eslint:recommended'
 rules:
-  accessor-pairs: error
   array-bracket-spacing:
     - error
     - never
@@ -145,7 +144,6 @@ rules:
   no-shadow-restricted-names: error
   no-spaced-func: error
   no-sync: error
-  no-tabs: error
   no-ternary: 'off'
   no-throw-literal: error
   no-trailing-spaces: error
