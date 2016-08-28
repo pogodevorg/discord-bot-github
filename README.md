@@ -55,6 +55,7 @@ Currently, you can contribute to this project by:
 ### Core Maintainers
 
 * [![Build Status](https://github.com/fkndean.png?size=36) - fkndean](https://github.com/fkndean)
+* [![Build Status](https://github.com/Lisiano256.png?size=36) - Lisiano256](https://github.com/Lisiano256)
 
 ## Credits
     github-webhook-handler
