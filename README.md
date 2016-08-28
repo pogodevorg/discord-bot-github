@@ -10,6 +10,7 @@
 * [Documentation](#documentation)
 * [Contributing](#contributing)
   * [Core Maintainers](#core-maintainers)
+  * [Misc. Maintainers](#misc-maintainers)
 * [Licensing](#licensing)
   * [Third Party Licenses](#third-party-licenses)
 * [Credits](#credits)
@@ -58,6 +59,10 @@ Currently, you can contribute to this project by:
 * [![Build Status](https://github.com/fkndean.png?size=36) - fkndean](https://github.com/fkndean)
 
 * [![Build Status](https://github.com/Lisiano256.png?size=36) - Lisiano256](https://github.com/Lisiano256)
+
+### Misc Maintainers
+
+* [![Build Status](https://github.com/keyphact.png?size=36) - keyphact](https://github.com/keyphact)
 
 ## Credits
     github-webhook-handler
