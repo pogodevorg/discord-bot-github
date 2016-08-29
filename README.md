@@ -60,11 +60,7 @@ Currently, you can contribute to this project by:
 
 * [![Build Status](https://github.com/Lisiano256.png?size=36) - Lisiano256](https://github.com/Lisiano256)
 
-### Misc Maintainers
-
-* [![Build Status](https://github.com/keyphact.png?size=36) - keyphact](https://github.com/keyphact)
-
 ## Credits
-    github-webhook-handler
-	  eris `NodeJS Discord Wrapper`
-	  nandun (Base Code)
+    github-webhook-handler (GitHub Webhook Library or "middleware" handles all the logic of receiving and verifying webhook requests from GitHub)
+    eris (NodeJS Discord Wrapper)
+    nandun (Base Code)
