@@ -10,6 +10,7 @@
 * [Documentation](#documentation)
 * [Contributing](#contributing)
   * [Core Maintainers](#core-maintainers)
+  * [Misc. Maintainers](#misc-maintainers)
 * [Licensing](#licensing)
   * [Third Party Licenses](#third-party-licenses)
 * [Credits](#credits)
@@ -24,7 +25,7 @@ You can then relay this information by binding it to a specific channel. We are 
 3. Remember to create a webhook and set the Payload URL to `http://YOURIP:8080/webhook` with `application/json`
 
 ## Documentation
-### Pre-requisites
+### Pre-requisites for Project
 	1. eris
 	2. forky
 	3. github-webhook-handler
@@ -58,6 +59,10 @@ Currently, you can contribute to this project by:
 * [![Build Status](https://github.com/fkndean.png?size=36) - fkndean](https://github.com/fkndean)
 
 * [![Build Status](https://github.com/Lisiano256.png?size=36) - Lisiano256](https://github.com/Lisiano256)
+
+### Misc Maintainers
+
+* [![Build Status](https://github.com/keyphact.png?size=36) - keyphact](https://github.com/keyphact)
 
 ## Credits
     github-webhook-handler
