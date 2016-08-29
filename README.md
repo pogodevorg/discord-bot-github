@@ -10,7 +10,6 @@
 * [Documentation](#documentation)
 * [Contributing](#contributing)
   * [Core Maintainers](#core-maintainers)
-  * [Misc. Maintainers](#misc-maintainers)
 * [Licensing](#licensing)
   * [Third Party Licenses](#third-party-licenses)
 * [Credits](#credits)
