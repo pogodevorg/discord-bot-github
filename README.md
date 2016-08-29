@@ -25,7 +25,7 @@ You can then relay this information by binding it to a specific channel. We are 
 3. Remember to create a webhook and set the Payload URL to `http://YOURIP:8080/webhook` with `application/json`
 
 ## Documentation
-### Pre-requisites
+### Pre-requisites for Project
 	1. eris
 	2. forky
 	3. github-webhook-handler
@@ -65,6 +65,6 @@ Currently, you can contribute to this project by:
 * [![Build Status](https://github.com/keyphact.png?size=36) - keyphact](https://github.com/keyphact)
 
 ## Credits
-    github-webhook-handler
-	eris `NodeJS Discord Wrapper`
+    github-webhook-handler (GitHub Webhook Library or "middleware" handles all the logic of receiving and verifying webhook requests from GitHub)
+	eris (NodeJS Discord Wrapper)
 	nandun (Base Code)

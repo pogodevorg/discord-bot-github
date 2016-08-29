@@ -1,8 +1,8 @@
 {
   "name": "discord-bot-github",
   "private": true,
-  "version": "0.0.1",
-  "description": "github webhook for discord",
+  "version": "0.0.2",
+  "description": "GitHub Webhook for Discord Chat",
   "main": "bot.js",
   "scripts": {
     "lint": "eslint .",
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/pogodevorg/discord-bot-github.git"
   },
-  "author": "Fernando Ortiz",
-  "license": "MIT",
+  "author": "fkndean",
+  "license": "GNU GPL v3",
   "bugs": {
     "url": "https://github.com/pogodevorg/discord-bot-github/issues"
   },
