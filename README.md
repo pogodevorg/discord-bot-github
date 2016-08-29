@@ -61,5 +61,5 @@ Currently, you can contribute to this project by:
 
 ## Credits
     github-webhook-handler
-	eris `NodeJS Discord Wrapper`
-	nandun (Base Code)
+	  eris `NodeJS Discord Wrapper`
+	  nandun (Base Code)
