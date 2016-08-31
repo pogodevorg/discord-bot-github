@@ -1,10 +1,8 @@
-/* eslint-disable camelcase, no-process-env*/
+var config = {}; //DO NOT EDIT
 
-var config = {};
-
-config.discord = {};
-config.github = {};
-config.web = {};
+config.discord = {}; //DO NOT EDIT
+config.github = {}; //DO NOT EDIT
+config.web = {}; //DO NOT EDIT
 
 config.discord.token = "DISCORD BOT TOKEN"; // This is for discord bot token
 config.discord.channel_id = 'DISCORD GITHUB CHANNEL ID'; // This is for specific id number for github channel you want to use
@@ -15,4 +13,4 @@ config.web.port = 8080; // This is the port the web runs on
 config.web.workers = 1; // Creates x web worker(s)
 config.web.path = '/webhook'; // Webhook path for the events in JSON.
 
-module.exports = config;
+module.exports = config; //DO NOT EDIT
