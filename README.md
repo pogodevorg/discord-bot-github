@@ -35,7 +35,7 @@ You can then relay this information by binding it to a specific channel. We are 
 Configuration | Description
 ----------------|--------------
 `config.discord.token` | Discord Bot Token. You can find out more [here](https://discordapp.com/developers/docs/topics/oauth2#bots).
-`config.discord.channel_id` | Input the Discord channel ID that you want to bind the bot to.
+`config.discord.channelID` | Input the Discord channel ID that you want to bind the bot to.
 `config.github.token` | Input the GitHub Webhook Secret/Token that you created.
 `config.web.cname` | Don't Touch Me Please. Only if you have to.
 `config.web.url` | Don't Touch Me Please. Only if you have to.
