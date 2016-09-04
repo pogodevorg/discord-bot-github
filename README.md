@@ -37,6 +37,7 @@ Configuration | Description
 `config.discord.token` | Discord Bot Token. You can find out more [here](https://discordapp.com/developers/docs/topics/oauth2#bots).
 `config.discord.channelID` | Input the Discord channel ID that you want to bind the bot to.
 `config.github.token` | Input the GitHub Webhook Secret/Token that you created.
+`config.github.logspath` | Input the absolute path to the folder you wish to save the logs into.
 `config.web.cname` | Don't Touch Me Please. Only if you have to.
 `config.web.url` | Don't Touch Me Please. Only if you have to.
 `config.web.workers` | Don't Touch Me Please. Only if you have to.
@@ -60,6 +61,9 @@ Currently, you can contribute to this project by:
 * [![Build Status](https://github.com/Lisiano256.png?size=36) - Lisiano256](https://github.com/Lisiano256)
 
 ## Credits
-    github-webhook-handler (GitHub Webhook Library or "middleware" handles all the logic of receiving and verifying webhook requests from GitHub)
-    eris (NodeJS Discord Wrapper)
-    nandun (Base Code)
+1. github-webhook-handler
+ * GitHub Webhook Library or "middleware" handles all the logic of receiving and verifying webhook requests from GitHub
+2. eris
+ * NodeJS Discord Wrapper
+3. nandub
+ * Base Code
