@@ -30,7 +30,7 @@ rules:
   comma-style:
     - error
     - last
-  complexity: error
+  complexity: warn
   computed-property-spacing:
     - error
     - never
@@ -71,11 +71,14 @@ rules:
   lines-around-comment: error
   max-depth: error
   max-len: 'off'
-  max-lines: error
+  max-lines:
+    - warn
+    - skipBlankLines: true
+      skipComments: true
   max-nested-callbacks: error
   max-params: error
-  max-statements: error
-  max-statements-per-line: error
+  max-statements: warn
+  max-statements-per-line: warn
   multiline-ternary: 'off'
   new-cap: error
   new-parens: error
@@ -219,5 +222,5 @@ rules:
   wrap-regex: error
   yield-star-spacing: error
   yoda:
-    - error
+    - warn
     - never
