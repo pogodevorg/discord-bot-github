@@ -26,7 +26,7 @@
     "eris": "git://github.com/abalabahaha/eris.git",
     "forky": "0.3.0",
     "github-webhook-handler": "0.6.0",
-    "http": "0.0.0"
+    "http": "0.0.0",
     "goo.gl": "0.1.4"
   },
   "devDependencies": {
