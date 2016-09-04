@@ -123,6 +123,7 @@ rules:
   no-new-require: error
   no-new-wrappers: error
   no-octal-escape: error
+  no-octal: 'off'
   no-param-reassign: error
   no-path-concat: error
   no-plusplus: error
