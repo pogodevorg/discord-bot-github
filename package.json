@@ -1,36 +1,36 @@
 {
-  "name": "discord-bot-github",
-  "private": true,
-  "version": "0.0.2",
-  "description": "GitHub Webhook for Discord Chat",
-  "main": "bot.js",
-  "scripts": {
-    "lint": "eslint .",
-    "start": "nf start",
-    "test": "echo {test:no}"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pogodevorg/discord-bot-github.git"
-  },
-  "author": "fkndean",
-  "license": "GNU GPL v3",
-  "bugs": {
-    "url": "https://github.com/pogodevorg/discord-bot-github/issues"
-  },
-  "homepage": "https://github.com/pogodevorg/discord-bot-github#readme",
-  "engines": {
-    "node": "6.2.0"
-  },
-  "dependencies": {
-    "eris": "git://github.com/abalabahaha/eris.git",
-    "forky": "0.3.0",
-    "github-webhook-handler": "0.6.0",
-    "http": "0.0.0",
-    "goo.gl": "0.1.4"
-  },
-  "devDependencies": {
-    "eslint": "3.2.2",
-    "foreman": "1.4.1"
-  }
+    "name": "discord-bot-github",
+    "private": true,
+    "version": "0.0.2",
+    "description": "GitHub Webhook for Discord Chat",
+    "main": "bot.js",
+    "scripts": {
+        "lint": "eslint .",
+        "start": "nf start",
+        "test": "echo {test:no}"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pogodevorg/discord-bot-github.git"
+    },
+    "author": "fkndean",
+    "license": "GNU GPL v3",
+    "bugs": {
+        "url": "https://github.com/pogodevorg/discord-bot-github/issues"
+    },
+    "homepage": "https://github.com/pogodevorg/discord-bot-github#readme",
+    "engines": {
+        "node": "6.2.0"
+    },
+    "dependencies": {
+        "eris": "git://github.com/abalabahaha/eris.git",
+        "forky": "0.3.0",
+        "github-webhook-handler": "0.6.0",
+        "http": "0.0.0",
+        "goo.gl": "0.1.4"
+    },
+    "devDependencies": {
+        "eslint": "3.2.2",
+        "foreman": "1.4.1"
+    }
 }

@@ -4,7 +4,7 @@ config.discord = {}; // DO NOT EDIT
 config.github = {}; // DO NOT EDIT
 config.web = {}; // DO NOT EDIT
 
-config.googl = 'GOO.GL AUTH KEY' // This is used for URL shortening, if you wish to keep default Github links, use 'github' as the key or keep it as is
+config.googl = 'GOO.GL AUTH KEY' // This is used for URL shortening, if you wish to keep default Github links, use an invalid key as the key or keep it blank.
 config.discord.token = 'DISCORD BOT TOKEN'; // This is for discord bot token
 config.discord.channelID = 'DISCORD GITHUB CHANNEL ID'; // This is for specific id number for github channel you want to use
 config.github.token = 'GITHUB SECRET (WEBHOOK)'; // This is the secret word/token that you create when making a webhook.
