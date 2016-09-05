@@ -1,7 +1,7 @@
 {
     "name": "discord-bot-github",
     "private": true,
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "GitHub Webhook for Discord Chat",
     "main": "bot.js",
     "scripts": {
@@ -13,7 +13,7 @@
         "type": "git",
         "url": "git+https://github.com/pogodevorg/discord-bot-github.git"
     },
-    "author": "fkndean",
+    "author": "fkndean/Lisiano",
     "license": "GNU GPL v3",
     "bugs": {
         "url": "https://github.com/pogodevorg/discord-bot-github/issues"
