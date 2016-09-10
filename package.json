@@ -27,7 +27,8 @@
         "forky": "0.3.0",
         "github-webhook-handler": "0.6.0",
         "http": "0.0.0",
-        "goo.gl": "0.1.4"
+        "goo.gl": "0.1.4",
+		"semver": "5.3.0"
     },
     "devDependencies": {
         "eslint": "3.2.2",
