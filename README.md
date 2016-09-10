@@ -15,13 +15,16 @@
 * [Credits](#credits)
 
 ## What is it?
-`discord-bot-github` is an open source bot for sending GitHub Webhooks to Discord.
-You can then relay this information by binding it to a specific channel. We are tailoring this bot to output messages in a more clean fashion.
+`discord-bot-github` is an open source bot for sending GitHub Webhooks to Discord by binding messages to a specific channel.
 
 ## Installation
 1. `npm install`
-2. `node bot.js`
-3. Remember to create a webhook and set the Payload URL to `http://YOURIP:8080/webhook` with `application/json`
+2. Rename `config/auth.js.example` to `config/auth.js`
+3. Configure `config/auth.js`
+4. `node bot.js`
+5. Remember to create a webhook and set the Payload URL to `http://YOURIP:8080/webhook` with `application/json`
+
+Having issues or just have a good idea? Please submit an [issue](https://github.com/pogodevorg/discord-bot-github/issues/new).
 
 ## Documentation
 ### Pre-requisites for Project
@@ -31,9 +34,17 @@ You can then relay this information by binding it to a specific channel. We are 
 	4. http
 	5. eslint
 	6. foreman
+	7. semver
+### GitHub Webhook
+Want to learn more about [GitHub Webhooks](https://developer.github.com/webhooks/) and it's event handlers?
+You can also check out the [GitHub API Status](https://status.github.com/).
+### Eris, a NodeJS Wrapper for Discord
+[Eris](https://github.com/abalabahaha/eris), NodeJS Discord Library, is speedy, consistent, flexible, predictable, and a simple command framework.
+You can find out more about the library usage by going to their [Documentation](https://abal.moe/Eris/docs.html)
 ### Configuration `(config/auth.js)`
 Configuration | Description
 ----------------|--------------
+`config.googl` | This is used for URL shortening, if you wish to keep default Github links, use an invalid key as the key or keep it blank.
 `config.discord.token` | Discord Bot Token. You can find out more [here](https://discordapp.com/developers/docs/topics/oauth2#bots).
 `config.discord.channelID` | Input the Discord channel ID that you want to bind the bot to.
 `config.github.token` | Input the GitHub Webhook Secret/Token that you created.
