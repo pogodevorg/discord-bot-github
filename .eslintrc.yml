@@ -226,3 +226,6 @@ rules:
   yoda:
     - warn
     - never
+  no-console:
+    - error
+    - allow: ['log', 'warn', 'error']
