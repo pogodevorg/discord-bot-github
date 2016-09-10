@@ -20,7 +20,7 @@
     },
     "homepage": "https://github.com/pogodevorg/discord-bot-github#readme",
     "engines": {
-        "node": "6.2.0"
+        "node": ">=6.2.0"
     },
     "dependencies": {
         "eris": "git://github.com/abalabahaha/eris.git",
